@@ -4,6 +4,7 @@ divHello Team,
 First Remove Un-necessary files created during create-react-app:
 => Files like - webvitals, logo, test files, etc
 
+..................................................................................
 Steps to Configure Tailwind css,
 => After created React App,
 => use this commands to install tailwind
